@@ -626,8 +626,6 @@
   .container .b-header .header__wrapper .header__content .header__content__button {
     margin-top: 54px;
   }
-}
-@media (max-width: 340px) {
   .container .b-services {
     margin-top: 40px;
   }
@@ -671,6 +669,8 @@
   .container .b-services .services__about .services__about__wrapper .services__about__info {
     margin-top: 28px;
   }
+}
+@media (max-width: 340px) {
   .container .b-personal {
     margin-top: 39px;
   }

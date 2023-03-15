@@ -921,11 +921,7 @@
         }
       }
     }
-  }
-}
 
-@media (max-width: 340px) {
-  .container {
     .b-services {
       margin-top: 40px;
 
@@ -987,7 +983,11 @@
         }
       }
     }
+  }
+}
 
+@media (max-width: 340px) {
+  .container {
     .b-personal {
       margin-top: 39px;
 
