@@ -361,6 +361,10 @@
       transform: translateX(0%);
     }
 
+    body.active {
+      overflow-y: hidden;
+    }
+
     .b-header {
       height: 460px;
 
